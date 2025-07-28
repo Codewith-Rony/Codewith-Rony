@@ -6,8 +6,9 @@
 💡 I believe in building by doing — whether it's through solo hacks or collaborative dev sprints, I’m always learning and creating.
 
 Let’s connect and build something meaningful! 💻✨
-🌐 Socials
-📸 Instagram • 💼 LinkedIn
+🌐 **Socials**  
+📸 [Instagram](https://instagram.com/__.ro_ny.__) • 💼 [LinkedIn](https://linkedin.com/in/rony-thomas777)
+
 
 🛠️ Tech Stack
 Languages & Tools:
