@@ -1,16 +1,15 @@
-## Hi there 👋
+😎 About Me
+👨‍💻 Hey techies! I’m Rony Thomas, a passionate developer who loves turning real-world challenges into functional and elegant digital solutions. From responsive web apps to mobile-first Flutter projects — I enjoy building things that work, look good, and solve problems.
 
-<!--
-**Codewith-Rony/Codewith-Rony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m actively exploring the world of AI/ML. I’m also enthusiastic about building scalable web applications and experimenting with new technologies.
 
-Here are some ideas to get you started:
+💡 I believe in building by doing — whether it's through solo hacks or collaborative dev sprints, I’m always learning and creating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect and build something meaningful! 💻✨
+🌐 Socials
+📸 Instagram • 💼 LinkedIn
+
+🛠️ Tech Stack
+Languages & Tools:
+Dart • Flutter • Java • Python • C • HTML5 • CSS3 • JavaScript
+Firebase • React • MongoDB • GitHub • Netlify • Canva
