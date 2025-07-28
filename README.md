@@ -7,7 +7,7 @@
 
 🚀 I’m a developer who loves solving real-world problems through code.   
 🌱 Exploring web development, Flutter apps, and the world of AI/ML.  
-👨‍🎓 3rd-year BTech CSE student at Amal Jyothi College of Engineering.
+👨‍🎓 4th-year BTech IT student at Amal Jyothi College of Engineering.
 
 ---
 
